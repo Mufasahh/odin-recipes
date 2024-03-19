@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project from odin project to build a recipe page with just plain html.
